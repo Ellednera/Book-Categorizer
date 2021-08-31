@@ -1,11 +1,11 @@
-number,random_num,book_name,brand,predicted,glossy_cover,has_plastic_layer_on_cover,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
-1,0.237039344393708,"花颜恶男女仆室",0,1,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,1,0,0,0,0,0,0,0
-2,0.277462822553262,"蔷薇少女馆 6",1,1,0,1,0,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,1,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0
-3,0.316040829136248,"蝴蝶飞过旧时光",1,1,0,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,1,1,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
-4,0.325330703818017,"蔷薇少女馆 3",1,1,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,1,1,0,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0
-5,0.334844766653994,"素心如兰淡雅香",1,0,0,1,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1
-6,0.367694581050052,"猫女的亲近计划 （上）",1,0,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1
-7,0.379257463345862,"少年北顾，惟愿君安 下",1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
-8,0.398969679156945,"爱的天空下雨了",0,0,1,1,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
-9,0.444389989381647,"我能听到你的心吗",0,1,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-10,0.45652320403592,"小淑女 少女说 5 闺蜜的柔软时光",1,1,1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+number,random_num,owned,book_name,brand,predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_KaiTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
+1,0.235756335684538,1,"记忆中的暖夏",0,1,0,1,1,0,0,0,0,1,1,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+2,0.367041255533735,1,"安娜不明国王心",0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
+3,0.379257463345862,1,"少年北顾，惟愿君安 下",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,0,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+4,0.386950194171459,1,"小MM 和订版 第58卷",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
+5,0.398969679156945,1,"爱的天空下雨了",0,0,1,1,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0
+6,0.430579254684089,0,"致美丽的他",0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+7,0.442196557025595,1,"悠莉宠物店 4",1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,0,1,1,1,1,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0
+8,0.444389989381647,1,"我能听到你的心吗",0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+9,0.45652320403592,1,"小淑女 少女说 5 闺蜜的柔软时光",1,1,0,1,0,1,0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,1,0,1,1,1,1,1,1,0,1,1,0,0,1,0,0,0,0,0,0,0
+10,0.563797293127457,1,"冬天该多好，你若尚在场",0,0,1,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0

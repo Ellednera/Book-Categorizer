@@ -1,11 +1,11 @@
-number,random_num,book_name,"品牌",predicted,glossy_cover,has_plastic_layer_on_cover,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
-1,0.508120063363062,"小MM 和订版 第73卷",1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0
-2,0.521106212805206,"琥珀青春",1,0,0,1,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
-3,0.545521169218954,"小MM 和订版 第74卷",1,1,1,1,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
-4,0.549210183076133,"月色银蔷薇 爱藏本006",1,1,1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
-5,0.578726770777211,"风走过森林",1,1,0,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
-6,0.58791179017655,"恰好你在我身边",0,0,1,1,1,1,0,1,0,0,0,0,0,1,1,0,0,0,1,1,0,1,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-7,0.593997526932384,"养只萌呆镇镇宅 3",1,1,0,1,0,1,1,0,0,0,0,1,0,1,0,1,0,1,1,1,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0
-8,0.613114025639821,"露星春日之绊",0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0
-9,0.639114843111034,"安娜不明国王心",0,0,1,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,1,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0
-10,0.645982037518385,"爱至末日",0,0,1,1,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+number,random_num,owned,book_name,"品牌",predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_KaiTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
+1,0.465167830222495,1,"淑女王冠",0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,1,0,0,1,0,0,1,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0
+2,0.465225022897798,1,"萌淑女驾到之人鱼的信奉",1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,1,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
+3,0.489995080452791,1,"小MM 和订版 第41卷",1,1,0,1,1,0,0,0,0,1,1,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+4,0.493708031428993,0,"转眼青春散场",0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
+5,0.506645967974666,1,"情空似白晴染墨",0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+6,0.508120063363062,1,"小MM 和订版 第73卷",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,0
+7,0.521106212805206,1,"琥珀青春",0,0,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1
+8,0.523447349642671,0,"猎天使女巫奇缘",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0,0
+9,0.545521169218954,1,"小MM 和订版 第74卷",1,0,0,1,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0
+10,0.549210183076133,1,"月色银蔷薇 爱藏本006",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,1,0,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0
