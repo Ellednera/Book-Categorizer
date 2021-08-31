@@ -16,7 +16,7 @@ my $book_nerve = revive( $nerve_file );
 # predicted values back into original file
 $book_nerve->work_in_real_world( {
     stimuli_validate => TEST_DATA,
-    predicted_column_index => 4,
+    predicted_column_index => 5,
 } );
 
 my %c_matrix = $book_nerve->get_confusion_matrix( {

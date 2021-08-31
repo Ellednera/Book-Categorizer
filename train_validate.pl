@@ -16,8 +16,8 @@ use constant {
     VALIDATION_DATA_OUTPUT_FILE => "data/validated.csv"
 };
 
-my $plasticity = 0.08;
-my @dendrites = qw( male_present	female_present	total_people_1	total_people_2	total_people_3	total_people_4	total_people_5_n_above	has_flowers	flower_coverage_more_than_half	has_leaves	leaves_coverage_more_than_half	has_trees	trees_coverage_more_than_half	has_other_living_things	has_fancy_stuff	has_obvious_inanimate_objects	red_shades	blue_shades	yellow_shades	orange_shades	green_shades	purple_shades	brown_shades	black_shades	overall_red_dominant	overall_green_dominant	overall_yellow_dominant	overall_pink_dominant	overall_purple_dominant	overall_orange_dominant	overall_blue_dominant	overall_brown_dominant	overall_black_dominant	overall_white_dominant
+my $plasticity = 0.08153;
+my @dendrites = qw( male_present	female_present	total_people_1	total_people_2	total_people_3	total_people_4	total_people_5_n_above	has_flowers	flower_coverage_more_than_half	has_leaves	leaves_coverage_more_than_half	has_trees	trees_coverage_more_than_half	has_other_living_things	has_fancy_stuff	has_gold_items	has_silver_items	has_bronze_items	title_decoration_very_fancy	title_towards_KaiTi	title_multiple_colors	has_obvious_inanimate_objects	red_shades	blue_shades	yellow_shades	orange_shades	green_shades	purple_shades	brown_shades	black_shades	overall_red_dominant	overall_green_dominant	overall_yellow_dominant	overall_pink_dominant	overall_purple_dominant	overall_orange_dominant	overall_blue_dominant	overall_brown_dominant	overall_black_dominant	overall_white_dominant
  );
 
 # max N 1's
@@ -26,7 +26,7 @@ my $threshold = scalar @dendrites * 8;
 
 my $book_nerve = AI::Perceptron::Simple->new( {
     threshold => $threshold,
-    #learning_rate => 26.10565,
+    learning_rate => 0.10565,
     initial_value => $plasticity,
     attribs => \@dendrites,
 } );
@@ -34,14 +34,14 @@ my $book_nerve = AI::Perceptron::Simple->new( {
 
 my $nerve_file = "yilin_mp520.nerve";
 my %c_matrix;
-for (1..10) {
+for (1..12) {
 #while (1) {
-    say "Training...";
-    $book_nerve->tame( TRAINING_DATA, EXPECTED_NAME, $nerve_file);#, 1, "book_name");
+    say "Training... Round $_";
+    $book_nerve->tame( TRAINING_DATA, EXPECTED_NAME, $nerve_file, 1, "book_name");
 
     $book_nerve->take_mock_exam( { 
         stimuli_validate => VALIDATION_DATA,
-        predicted_column_index => 4,
+        predicted_column_index => 5,
         results_write_to => VALIDATION_DATA_OUTPUT_FILE,
     } );
     
@@ -51,12 +51,7 @@ for (1..10) {
         predicted_output_header => "predicted",
      } );
     
-    if ( $c_matrix{ accuracy } >= 85 ) {
-        say "";
-        last;
-    } else {
-        say "Accuracy is only $c_matrix{accuracy}%, training again in 1 second :)";
-    }
+    say "Accuracy is only $c_matrix{accuracy}%, training again in 1 second :)";
 
     sleep( 1 );
     say "";
