@@ -1,0 +1,44 @@
+--- !!perl/hash:AI::Perceptron::Simple
+attributes_hash_ref:
+  black_shades: 1.55
+  blue_shades: 2.9
+  brown_shades: 2.9
+  female_present: 3.3
+  flower_coverage_more_than_half: 2.55
+  green_shades: 1.55
+  has_bronze_items: 1.15
+  has_fancy_stuff: 1.35
+  has_flowers: 2
+  has_gold_items: 0.649999999999999
+  has_leaves: 1.55
+  has_obvious_inanimate_objects: 0.75
+  has_other_living_things: 2.6
+  has_silver_items: 2.1
+  has_trees: 0.8
+  leaves_coverage_more_than_half: 1.2
+  male_present: -0.850000000000001
+  orange_shades: 0.0499999999999995
+  overall_black_dominant: 1.15
+  overall_blue_dominant: 2.15
+  overall_brown_dominant: 1.15
+  overall_green_dominant: 1.65
+  overall_orange_dominant: 1.15
+  overall_pink_dominant: 1.15
+  overall_purple_dominant: 1.55
+  overall_red_dominant: 1.15
+  overall_white_dominant: 2.15
+  overall_yellow_dominant: 0.399999999999999
+  purple_shades: 1.95
+  red_shades: 1.8
+  title_decoration_very_fancy: 0.0499999999999995
+  title_multiple_colors: -0.850000000000001
+  title_towards_KaiTi: 2.45
+  total_people_1: 4.79999999999999
+  total_people_2: 0.499999999999999
+  total_people_3: 0.649999999999999
+  total_people_4: 1.15
+  total_people_5_n_above: 0.8
+  trees_coverage_more_than_half: 1.15
+  yellow_shades: 2.4
+learning_rate: 0.05
+threshold: 25
