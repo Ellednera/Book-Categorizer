@@ -12,4 +12,4 @@ The module AI::Perceptron::Simple is used for the programs. So you need to downl
 The files are not categorized correctly yet. 
  - The scripts under the "main" directory is the classical model and it uses the data from "data" directory. This will be reorganized in the future :)
    - The "data" directory should only contain the original datasets and the "book_labels" file
- - The model trained using the shuffling method and its related datasets are all under the "shuffled_data" directory.
+ - The model trained using the shuffling method and its related datasets are all under the "shuffled" directory.
