@@ -7,7 +7,7 @@ use utf8;
 
 use AI::Perceptron::Simple "revive";
 
-use constant TEST_DATA => "data/yilin_mp520_test_10.csv";
+use constant TEST_DATA => "yilin_mp520_test_10.csv";
 my $nerve_file = "yilin_mp520.nerve";
 
 
