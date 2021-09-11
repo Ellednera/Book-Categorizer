@@ -1,15 +1,35 @@
-number,random_num,owned,book_name,brand,predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_KaiTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
+number,random_num,owned,book_name,brand,predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_SongTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
 1,0.937692775421433,1,小仙草的迷雾森林,1,,0,1,1,0,0,0,0,1,1,1,1,0,0,1,1,0,0,0,0,1,0,0,1,1,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0
-2,0.458229033184082,0,1王9帅12宫 1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,0.992308710238955,0,1王9帅12宫 2,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,0.119227408915569,0,1王9帅12宫 3,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,0.632250724540188,0,1王9帅12宫 完结篇,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,0.458229033184082,0,1王9帅12宫 1 ?,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0
+3,0.992308710238955,0,1王9帅12宫 2 ?,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+4,0.119227408915569,0,1王9帅12宫 3 ?,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+5,0.632250724540188,0,1王9帅12宫 完结篇 ?,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
 6,0.516088558800863,0,向日葵小姐,1,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0
-7,0.458987837115588,0,湖都,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,0.458987837115588,0,湖都,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
 8,0.567930966089346,0,倾城之恋,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,0
 9,0.512475758627843,0,情迷吸血鬼,1,,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,1,0,0
 10,0.939195113224084,0,球状也是身材,1,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
 11,0.525654499337626,0,天才猫神心恋心,1,,1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0
 12,0.70577784748457,1,我们用青春记住谁,1,,0,1,1,0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,0,0,0,0,0,1,0,0,0,0
-13,0.16232776313983,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,0.968003657870702,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+13,0.968003657870702,0,贱女孩 2,1,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0
+14,0.01862779108665,0,换换爱,1,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,1,1,1,1,1,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0
+15,0.367721093015162,0,摩天轮下的肖邦少女,1,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,1,0,0,0,0,0,0
+16,0.139377920062827,0,六月十一日,1,,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0
+17,0.609816972544639,0,帝宠,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+18,0.518216200184074,0,臣服吧，狼王子殿下,1,,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0
+19,0.276618876197365,0,四月的星球 1,1,,1,1,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,1,1,1,0,1,0,1,1,1,1,0,1,0,0,0,0,0,0,0,0
+20,0.41798674833222,0,四月的星球 2,1,,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+21,,1,封印之书·萤火森林,1,,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+22,,0,香薰恋人 2,1,,0,1,1,0,0,0,0,1,1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+23,,0,半夏,1,,0,1,1,0,0,0,0,0,0,1,0,1,0,1,1,0,0,0,1,0,0,0,1,1,1,0,0,1,1,1,0,0,0,0,0,0,1,0,0,0
+24,,0,我的灵魂在古代,1,,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+25,,0,茵梦湖王后·凯尔金之箭,1,,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,0,1,0,1,0,0,1,1,1,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0
+26,,0,茵梦湖王后·魔法血钥匙,1,,0,1,1,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,0,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,1,0,0,0
+27,,0,你家有熊猫吗,1,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0
+28,,0,第一千零一次心跳 ,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,1,1,1,0,0,1,1,0,0,0,0,0,0,1,0,0,0
+29,,0,皇家魔女学院 1,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,0,0
+30,,0,皇家魔女学院 2 终结篇,1,,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+31,,0,小甜甜的糖果城堡,1,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,1,1,1,1,1,0,1,0,1,0,0,0,0,0,0,0,0
+32,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+33,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+number,random_num,owned,book_name,brand,predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_SongTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
