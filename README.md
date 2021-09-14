@@ -16,5 +16,10 @@ This is where the original dataset and anything related live in
 ### classic
 The classic model to train nerves
 
+### k-fold
+K-fold cross validation. For now, it uses k=5 for 3 neurons. Only the learning rate differs.
+
+*Currently, this is only completed up till the training stage*
+
 ### shuffled
 The nerve trained using the shuffling method
