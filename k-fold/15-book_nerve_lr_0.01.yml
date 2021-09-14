@@ -1,0 +1,44 @@
+--- !!perl/hash:AI::Perceptron::Simple
+attributes_hash_ref:
+  black_shades: 10.6152999999998
+  blue_shades: 12.1052999999998
+  brown_shades: 43.8652999999998
+  female_present: 64.4652999999961
+  flower_coverage_more_than_half: 13.4852999999998
+  green_shades: 15.5452999999997
+  has_bronze_items: 0.8153
+  has_fancy_stuff: 30.725300000002
+  has_flowers: 23.5353000000009
+  has_gold_items: -1.2147
+  has_leaves: 11.3352999999998
+  has_obvious_inanimate_objects: -5.65469999999992
+  has_other_living_things: 35.9453000000014
+  has_silver_items: 15.0352999999997
+  has_trees: -10.4846999999998
+  leaves_coverage_more_than_half: 0.8153
+  male_present: -13.5146999999998
+  orange_shades: 27.6653000000015
+  overall_black_dominant: 0.8153
+  overall_blue_dominant: 21.2853000000005
+  overall_brown_dominant: -1.6847
+  overall_green_dominant: 25.5353000000012
+  overall_orange_dominant: 0.8153
+  overall_pink_dominant: -1.6747
+  overall_purple_dominant: -1.3647
+  overall_red_dominant: 0.8153
+  overall_white_dominant: 20.1453000000004
+  overall_yellow_dominant: 7.11529999999989
+  purple_shades: 23.0953000000008
+  red_shades: 38.8853000000008
+  title_decoration_very_fancy: -3.39469999999997
+  title_multiple_colors: -16.5846999999998
+  title_towards_SongTi: 56.2752999999974
+  total_people_1: 56.0452999999974
+  total_people_2: 14.3552999999997
+  total_people_3: -4.30469999999995
+  total_people_4: 0.8153
+  total_people_5_n_above: 0.8153
+  trees_coverage_more_than_half: 0.8153
+  yellow_shades: 30.0853000000019
+learning_rate: 0.01
+threshold: 320

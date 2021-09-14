@@ -1,0 +1,40 @@
+k-fold
+
+Dataset
+  Total entries: 50, using 1st-129t records for the moment
+  k = 5
+
+File structure
+/k-fold
+  /tested_data
+    *tested data written to new CSV files to generate confusion matrixes 
+     and for inspection if necessary
+  /confusion_matrixes
+    *k number of confusion matrixes data file for calculating the mean
+  00-data_50.csv (all 50 data)
+  00-notes
+  05-fold-1.csv, 02-fold-2.csv, ..., 02-fold-5.csv
+  10-*.pl : all perl codes (creation, training, testing)
+  15-*.nerve : all the different models
+  20-c_matrix-* : all confusion matrix for each individual model to get mean
+
+File naming conventions: 02-fold-n.csv, n = +ve integers, >0
+
+Neurons: 
+1. 3 neurons, with different learning rates, the rest constant
+   - learning rate: 0.01, 0.5 2.5
+   - plasticity: 0.8153
+   - threshold: scalar @dendrites * 8
+
+2. n neurons, dirrefent learning rates, plasticity, and threashold
+   - yet to be known
+
+Logic
+for each nerve, train using k-fold
+    for each iteration, train using 4 folds, test with 1
+    test and store the 5 confusion matrixes into a single file
+    compare nerves' performance ie calculate mean
+
+testing & mean in a single script
+comparing performance in another script
+
