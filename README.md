@@ -19,7 +19,13 @@ The classic model to train nerves
 ### k-fold
 K-fold cross validation. For now, it uses k=5 for 3 neurons. Only the learning rate differs.
 
-*Currently, this is only completed up till the training stage*
+#### k-fold/tested_data
+This is the tested data written into new files for inspection if necessary.
+
+The naming follows the convention: *tested_$fold.$new_nerve_file.csv* where *$fold* represents the 1st layer key in the *%stimuli_folds* hash and 
+*$new_nerve_file* is the modified nerve filename without the ".nerve" section. All original data are kept intact.
+
+*The mean of confusion matrix stats is still incomplete*
 
 ### shuffled
 The nerve trained using the shuffling method
