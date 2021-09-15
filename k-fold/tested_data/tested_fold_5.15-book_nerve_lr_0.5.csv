@@ -1,0 +1,11 @@
+number,random_num,owned,book_name,brand,predicted,male_present,female_present,total_people_1,total_people_2,total_people_3,total_people_4,total_people_5_n_above,has_flowers,flower_coverage_more_than_half,has_leaves,leaves_coverage_more_than_half,has_trees,trees_coverage_more_than_half,has_other_living_things,has_fancy_stuff,has_gold_items,has_silver_items,has_bronze_items,title_decoration_very_fancy,title_towards_SongTi,title_multiple_colors,has_obvious_inanimate_objects,red_shades,blue_shades,yellow_shades,orange_shades,green_shades,purple_shades,brown_shades,black_shades,overall_red_dominant,overall_green_dominant,overall_yellow_dominant,overall_pink_dominant,overall_purple_dominant,overall_orange_dominant,overall_blue_dominant,overall_brown_dominant,overall_black_dominant,overall_white_dominant
+41,0.102705743993828,0,"樱之学院恋之簿",0,1,1,1,0,1,0,0,0,1,1,0,0,0,0,1,0,1,1,0,1,1,1,0,1,1,1,1,0,1,0,1,0,0,0,0,0,0,1,0,0,0
+42,0.090142397909546,0,"无冕之王",0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1,1,1,1,0,1,1,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+43,0.079530812339827,1,"千零一夜美梦恋",0,0,1,1,0,1,0,0,0,1,0,0,0,0,0,1,1,0,0,0,1,1,1,1,0,1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0
+44,0.074876369743413,1,"养只萌呆镇镇宅 2",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,1,1,1,1,0,0,1,0,0,1,1,1,0,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+45,0.066229814942524,1,"情空似白晴染墨",0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,1,1,1,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+46,0.057733093278706,1,"折纸戏 鸢尾篇",1,0,1,1,0,1,0,0,0,1,0,1,0,1,0,1,0,1,0,0,1,0,0,1,0,1,1,1,1,1,1,1,0,0,0,0,0,0,1,0,0,0
+47,0.037765170327227,0,"玻璃夕阳",0,0,1,1,0,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0
+48,0.019602969757007,0,"我路过青春却错过你",0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,1
+49,0.01553791450563,1,"风走过森林",1,1,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,1,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+50,0.003013424592564,0,"天使七号殿",0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,1,1,1,1,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0
