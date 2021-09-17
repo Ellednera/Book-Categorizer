@@ -9,7 +9,7 @@ File structure
   /tested_data
     *tested data written to new CSV files to generate confusion matrixes 
      and for inspection if necessary
-  /confusion_matrixes
+  /confusion_matrices
     *k number of confusion matrixes data file for calculating the mean
   00-data_50.csv (all 50 data)
   00-notes
