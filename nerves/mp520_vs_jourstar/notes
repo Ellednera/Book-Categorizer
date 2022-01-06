@@ -1,0 +1,9 @@
+Brand
+0 => 魅丽优品
+1 => 聚星天华
+
+Using shuffling method
+
+Training set => 50 魅丽优品，
+Validation set => 10 魅丽优品，10 聚星天华
+Testing set => 15 魅丽优品，15 聚星天华
