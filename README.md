@@ -25,5 +25,8 @@ This is the tested data written into new files for inspection if necessary.
 The naming follows the convention: *tested_$fold.$new_nerve_file.csv* where *$fold* represents the 1st layer key in the *%stimuli_folds* hash and 
 *$new_nerve_file* is the modified nerve filename without the ".nerve" section. All original data are kept intact.
 
+### nerve
+This is where the tamed nerves are stored (both Storable and YAML), each in their own directory. The scripts and CSV files are included too.
+
 ### shuffled
 The nerve trained using the shuffling method
